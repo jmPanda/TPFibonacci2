@@ -1,9 +1,9 @@
 var dato1 = 1;
 var dato2 = 0;
 var resultado = 0;
-const POSICION = 15
+const POSICION = 20
 
-for (i = 0; i < 15; i++)
+for (i = 0; i < 20; i++)
 
 {
     resultado = dato1 + dato2;
